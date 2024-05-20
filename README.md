@@ -1,6 +1,7 @@
-<h3 align="center">Software Developer</h3>
+<h3 align="center">👋 Hi! I'm Daniel Aguilar Software Developer</h3>
+
 ## 📚 Education
-- **University:** [Your University Name]
+- **University:** UNAH
 - **Degree:** Systems Engineering
 - **Year:** Fourth
 
