@@ -1,8 +1,19 @@
 <h3 align="center">Software Developer</h3>
-- 🌱 I’m currently learning **Vue Js, ASP. NET and PL/SQL**
-- 💬 About me **I am passionate about technology and programming languages. I am always looking for new opportunities to learn and grow professionally. I enjoy collaborating on open-source projects and participating in hackathons.**
-- 📫 How to reach me **aguilardaniel631@gmail.com**
-- 📚 Education **- **University:**Universidad Autonoma de Honduras - **Degree:** Systems Engineering - **Year:** Fourth**
+## 📚 Education
+- **University:** [Your University Name]
+- **Degree:** Systems Engineering
+- **Year:** Fourth
+
+## 🌱 Currently Learning
+- Artificial Intelligence and Machine Learning
+- Mobile application development with Flutter
+- Best practices in DevOps
+
+## 💬 About Me
+I am passionate about technology and programming languages. I am always looking for new opportunities to learn and grow professionally. I enjoy collaborating on open-source projects and participating in hackathons.
+
+## 📫 How to Reach Me
+- **Email:** aguilardaniel631@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/Daniel Aguilar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/DanielAguilar19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
