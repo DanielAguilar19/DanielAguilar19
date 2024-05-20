@@ -61,8 +61,10 @@ I am passionate about technology and programming languages. I am always looking 
 <div align="center">
 <a href="https://github.com/DanielAguilar19">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielAguilar19&theme=2077" height="180em" />
+  <hr>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielAguilar19&theme=moonlight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielAguilar19&theme=moonlight" height="180em" />
+  <hr>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielAguilar19&theme=moonlight" height="180em" />
 </div>
 
