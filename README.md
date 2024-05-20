@@ -1,4 +1,6 @@
-<h3 align="center">👋 Hi! I'm Daniel Aguilar Software Developer</h3>
+<h3 align="center">👋 Hi! I'm Daniel Aguilar</h3>
+
+I am a fourth-year Systems Engineering student with experience as a Junior Developer and Junior Software Developer. I am passionate about programming languages and constantly enjoy learning and improving my skills.
 
 ## 📚 Education
 - **University:** UNAH
@@ -15,6 +17,7 @@ I am passionate about technology and programming languages. I am always looking 
 
 ## 📫 How to Reach Me
 - **Email:** aguilardaniel631@gmail.com
+
 
 <div> <a href="https://www.linkedin.com/in/Daniel Aguilar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/DanielAguilar19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -60,7 +63,6 @@ I am passionate about technology and programming languages. I am always looking 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielAguilar19&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielAguilar19&theme=moonlight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielAguilar19&theme=moonlight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielAguilar19&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielAguilar19&theme=moonlight" height="180em" />
 </div>
 
